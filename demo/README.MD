@@ -24,10 +24,10 @@ Event-Driven Architecture (EDA) is an architectural paradigm used in software de
 
 <b>work to do : </b>
 
-<img src="images/img.png">
+<img src="Images/img.png">
 
 ## 1- Setting Up and Running Kafka for Event Messaging
-<img src="images/image1.png">
+<img src="Images/image1.png">
 <img src="Images/image2.png">
 <img src="Images/image3.png">
 
